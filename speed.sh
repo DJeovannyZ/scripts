@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --- Script para aumentar velocidad de un MP4 a 1.2x ---
-# Uso: ./speed_up_video.sh archivo.mp4
+# Uso: ./speed archivo.mp4
 
 if [ -z "$1" ]; then
   echo "Uso: $0 archivo.mp4"
